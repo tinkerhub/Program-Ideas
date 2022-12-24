@@ -3,7 +3,7 @@
 Welcome to the TinkerHub Project Ideas repository! Here we can discuss project ideas we can do at TinkerHub. Project ideas could be: 
 - Cool demo projects we can showcase in out TinkerSpace, like an AI assistant who answer your questions about TinkerHub
 - Things we wish to see in the tinkerspace, like more beanbags and more beanbags
-- Projects for social good, like a malayalam voice recognitio API!
+- Projects for social good, like a malayalam voice recognition API!
 
 ## How to Discuss Ideas
 
